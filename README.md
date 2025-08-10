@@ -6,6 +6,11 @@ Features secure authentication 🔐 with Keycloak, service discovery 🔍 via Eu
 ⸻
 
 🏗️ Architecture Overview
+<img width="3636" height="3347" alt="Microservices" src="https://github.com/user-attachments/assets/83adddd3-fed6-4ad1-a140-3e736dfe6892" />
+
+
+
+
 
 🔹 Backend Microservices
 	•	userservice 👤 – Manages user profiles & accounts
@@ -41,3 +46,4 @@ Features secure authentication 🔐 with Keycloak, service discovery 🔍 via Eu
 ✅ Real-time service discovery
 ✅ Modern, responsive frontend
 ✅ Works locally with Docker Compose
+
